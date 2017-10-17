@@ -1,0 +1,2 @@
+# training
+Python practice projects
